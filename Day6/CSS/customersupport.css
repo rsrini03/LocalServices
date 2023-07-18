@@ -1,0 +1,16 @@
+.cus {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#img-padding {
+    /* margin-left: 10%;
+    margin-top: 10; */
+    margin: 10%;
+}
+.head-trans{
+    background-color: rgb(226, 223, 223);
+
+}
