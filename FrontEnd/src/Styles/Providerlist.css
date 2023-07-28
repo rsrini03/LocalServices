@@ -1,0 +1,7 @@
+.list-back{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url("/public/images/list-back.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}

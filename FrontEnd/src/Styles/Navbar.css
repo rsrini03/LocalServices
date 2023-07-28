@@ -1,0 +1,11 @@
+.css-r6ewbb-MuiToolbar-root{
+    display:flex !important;
+
+    justify-content: space-between !important;
+}
+@media screen and (max-width: 600px) {
+    .css-r6ewbb-MuiToolbar-root {
+        flex-direction: column; /* Change to a vertical layout */
+        align-items: stretch; /* Stretch items to full width */
+    }
+}

@@ -1,0 +1,13 @@
+.profile-value{
+    text-align: right;
+}
+
+#profile-head{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.profile-field, .profile-value{
+    font-family: 'Anuphan', sans-serif;
+    margin: 5px;
+}
