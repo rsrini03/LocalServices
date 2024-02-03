@@ -1,0 +1,8 @@
+.feedback {
+    justify-content: center;
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("/public/images/feedback.jpg");
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+  }

@@ -1,0 +1,12 @@
+.MuiTypography-root{
+    /* display: block;
+    margin: 0 auto; */
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+}
+.MuiButtonBase-root-MuiButton-root{
+    display: flex;
+    justify-content: center;
+    
+}

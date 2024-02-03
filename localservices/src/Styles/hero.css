@@ -1,0 +1,13 @@
+.hero {
+    min-height: 100vh;
+    
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('/public/images/homeimg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-container {
+    
+    margin-bottom: 60px ;       
+    font-size: 50px;
+}
